@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on mordenization at Itaú-Unibanco
 - 🌱 I’m currently learning Java, Spring, Microsservices and AWS.
-- 📫 How to reach me: ...
 - 😄 Pronouns: he/him
 
 <div align="center">
