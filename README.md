@@ -1,8 +1,6 @@
 ### Hi,Rafael Souza here! 👋
 
-- 🔭 I’m currently working at Itaú-Unibanco as a Data Scientist.
-- 🌱 I’m currently learning Python, Machine Learning and AWS.
-- 😄 Pronouns: he/him
++4 years of experience in Software engineering
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
